@@ -53,7 +53,7 @@ var cnItems = {
     "particles": "粒子",
     "Pause game": "暂停游戏",
     "Please check the Discord to discuss the game or to check for new content updates!": "请查看 Discord 以讨论游戏或查看新内容更新！",
-    "Primordia": "原始",
+    "Primordia": "原始树",
     "Saves Manager": "存档管理",
     "Show Milestones": "显示里程碑",
     "Show TPS": "显示 TPS",
