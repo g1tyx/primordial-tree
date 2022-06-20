@@ -404,7 +404,7 @@ var cnItems = {
     "You can activate two Lightning Modes at once.": "您可以一次激活两种闪电模式。",
     "You can fill the Earth Grid with a single button.": "您可以用一个按钮填充地球网格。",
     "You can max all Molecules at once.": "您可以一次最大化所有分子。",
-    "": "",
+    "Particle Combinator Effect": "粒子组合器效果",
     "": "",
     "": "",
     "": "",
